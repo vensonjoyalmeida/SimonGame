@@ -24,7 +24,7 @@
 * Potentiometer </br>
 
 ## Fritzing Diagram:
-![pic](images/almeida-venson-assignment-2.png)
+![pic](images/simon.png)
 ## Project look:
 ![pic](images/board.png)
 ![pic](images/lcd.png)
